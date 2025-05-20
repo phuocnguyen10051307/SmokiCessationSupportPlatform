@@ -1,1 +1,1 @@
-# SmokiCessationSupportPlatform
+# School Medical Management System
